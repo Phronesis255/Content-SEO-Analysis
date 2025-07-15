@@ -1,4 +1,4 @@
-# 📈 Google Ads Keyword Planner Notebook
+# 📈 Get High-Value Keywords from a List of URLs
 
 Harvest high‑value keyword ideas from any set of landing‑page URLs using the **Google Ads Keyword Plan Ideas** endpoint — all inside a single, reproducible Jupyter Notebook.
 
